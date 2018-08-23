@@ -1,8 +1,4 @@
-# fallen158
-
-> A Vue.js project
-
-## 猜题小游戏
+# 猜题小游戏
 
 ``` bash
 # install dependencies
